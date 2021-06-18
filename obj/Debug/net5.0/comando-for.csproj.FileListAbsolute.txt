@@ -1,0 +1,16 @@
+C:\Users\JEAN.HORACIO\Downloads\comando-for\bin\Debug\net5.0\comando-for.exe
+C:\Users\JEAN.HORACIO\Downloads\comando-for\bin\Debug\net5.0\comando-for.deps.json
+C:\Users\JEAN.HORACIO\Downloads\comando-for\bin\Debug\net5.0\comando-for.runtimeconfig.json
+C:\Users\JEAN.HORACIO\Downloads\comando-for\bin\Debug\net5.0\comando-for.runtimeconfig.dev.json
+C:\Users\JEAN.HORACIO\Downloads\comando-for\bin\Debug\net5.0\comando-for.dll
+C:\Users\JEAN.HORACIO\Downloads\comando-for\bin\Debug\net5.0\ref\comando-for.dll
+C:\Users\JEAN.HORACIO\Downloads\comando-for\bin\Debug\net5.0\comando-for.pdb
+C:\Users\JEAN.HORACIO\Downloads\comando-for\obj\Debug\net5.0\comando-for.csprojAssemblyReference.cache
+C:\Users\JEAN.HORACIO\Downloads\comando-for\obj\Debug\net5.0\comando-for.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JEAN.HORACIO\Downloads\comando-for\obj\Debug\net5.0\comando-for.AssemblyInfoInputs.cache
+C:\Users\JEAN.HORACIO\Downloads\comando-for\obj\Debug\net5.0\comando-for.AssemblyInfo.cs
+C:\Users\JEAN.HORACIO\Downloads\comando-for\obj\Debug\net5.0\comando-for.csproj.CoreCompileInputs.cache
+C:\Users\JEAN.HORACIO\Downloads\comando-for\obj\Debug\net5.0\comando-for.dll
+C:\Users\JEAN.HORACIO\Downloads\comando-for\obj\Debug\net5.0\ref\comando-for.dll
+C:\Users\JEAN.HORACIO\Downloads\comando-for\obj\Debug\net5.0\comando-for.pdb
+C:\Users\JEAN.HORACIO\Downloads\comando-for\obj\Debug\net5.0\comando-for.genruntimeconfig.cache
